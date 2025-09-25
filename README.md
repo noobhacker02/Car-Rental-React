@@ -2,7 +2,7 @@
 
 A responsive web application built with **React** and **Vite** that displays a fleet of luxury cars. Users can dynamically filter and sort the collection to find their perfect vehicle. This project is optimized for a seamless deployment on **Netlify**.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://app.netlify.com/sites/your-site-name/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ccf53f3d-d05c-4f1f-bf74-638f4ff39dc0/deploy-status)](https://app.netlify.com/projects/carrentalbelgium/deploys)
 
 ---
 
