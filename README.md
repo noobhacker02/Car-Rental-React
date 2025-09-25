@@ -27,7 +27,8 @@ A responsive web application built with **React** and **Vite** that displays a f
 ## 📸 Preview
 
 <img width="1866" height="868" alt="image" src="https://github.com/user-attachments/assets/42e293cc-38c7-4b41-a1d3-565b98ea3689" />
-<img width="365" height="738" alt="image" src="https://github.com/user-attachments/assets/e5f7eb8e-d2e3-4453-862f-d78fbed66654" />
+<img width="365" height="738" alt="image" src="https://github.com/user-attachments/assets/e5f7eb8e-d2e3-4453-862f-d78fbed66654" /><img width="359" height="739" alt="image" src="https://github.com/user-attachments/assets/3dbfa4e2-6fc9-4db8-9740-683e5db5f90e" />
+
 
 
 ---
